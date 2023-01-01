@@ -33,8 +33,8 @@ export const Team = () => {
       title: "",
       description: "",
       imgUrl: projImg3,
-    },
-    {
+    */},
+    {/*
       title: "",
       description: "",
       imgUrl: projImg5,
