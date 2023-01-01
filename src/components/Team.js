@@ -19,26 +19,26 @@ export const Team = () => {
       imgUrl: projImg1,
 
     },
-    {/*
+    {
       title: "FazNode",
       description: "Core Team",
       imgUrl: projImg2,
-    */},
+    },
     {
       title: "G-tech",
       description: "Co-founder",
       imgUrl: projImg4,
     },
-    {/*
+    {
       title: "BlackRock",
       description: "Core Team",
       imgUrl: projImg3,
-    */},
-    {/*
+    },
+    {
       title: "CryptoPunk",
       description: "Core Team",
       imgUrl: projImg5,
-    */},
+    },
     
   ];
 
