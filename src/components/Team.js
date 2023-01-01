@@ -19,17 +19,17 @@ export const Team = () => {
       imgUrl: projImg1,
 
     },
-    {
+    {/*
       title: "",
       description: "",
       imgUrl: projImg2,
-    },
+    */},
     {
       title: "G-tech",
       description: "Co-founder",
       imgUrl: projImg4,
     },
-    {
+    {/*
       title: "",
       description: "",
       imgUrl: projImg3,
@@ -38,7 +38,7 @@ export const Team = () => {
       title: "",
       description: "",
       imgUrl: projImg5,
-    },
+    */},
  
   ];
 
