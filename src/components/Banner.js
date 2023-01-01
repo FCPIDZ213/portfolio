@@ -60,7 +60,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">{date}</span>
-                <h1>{`Hi! I'm NodeX ⚡`} </h1>
+                <h1>{`Hi! I'm DZ-staking ⚡`} </h1>
                   <h4>I'm an independent node runner for blockchain projects.</h4>
                   <br></br>
                   <i><q>Independent means that it is run by blockchain geeks for blockchain and crypto enthusiasts just like you ❤️. No VCs or institutional support. We indeed care about keeping the stake decentralized.</q></i>
