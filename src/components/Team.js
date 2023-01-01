@@ -30,13 +30,13 @@ export const Team = () => {
       imgUrl: projImg4,
     },
     {
-      title: "BlackRock",
-      description: "Core Team",
+      title: "",
+      description: "",
       imgUrl: projImg3,
     },
     {
-      title: "CryptoPunk",
-      description: "Core Team",
+      title: "",
+      description: "",
       imgUrl: projImg5,
     },
     
