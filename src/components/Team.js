@@ -34,11 +34,7 @@ export const Team = () => {
       description: "Core Team",
       imgUrl: projImg3,
     },
-    {
-      title: "CryptoPunk",
-      description: "Core Team",
-      imgUrl: projImg5,
-    },
+
     
   ];
 
