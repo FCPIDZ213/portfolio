@@ -34,12 +34,7 @@ export const Team = () => {
       description: "",
       imgUrl: projImg3,
     },
-    {
-      title: "",
-      description: "",
-      imgUrl: projImg5,
-    },
-    
+
   ];
 
   return (
