@@ -52,7 +52,7 @@ export const Testnet = () => {
                     <div className="skill-bx wow zoomIn">
                         <h2> Mainnet & Testnet Guide✨</h2>
                         <p>Here's the simply guide from various mainnet & testnet below! </p>
-                        <a class="github-button" href="https://github.com/nodesxploit/testnet"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
+                        <a class="github-button" href="https://github.com/FCPIDZ213/nodes-Guides"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">Github Stars ⭐</a>
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
