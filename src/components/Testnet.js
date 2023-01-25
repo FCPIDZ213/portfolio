@@ -56,7 +56,7 @@ export const Testnet = () => {
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
-                        <div className="item">
+                        {/*<div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <h5>Stride</h5></a>
                             </div>
@@ -75,7 +75,7 @@ export const Testnet = () => {
                             {/* <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/quicksilver" target="_blank"> <img src={meter7} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/quicksilve" target="_blank"> <h5>Quicksilver</h5></a>
-                            </div> */}
+                            </div> 
                             <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/subquery" target="_blank"><img src={meter6} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/subquery" target="_blank"> <h5>Subquery</h5></a>
@@ -123,15 +123,15 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><img src={meter18} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><h5>Juno</h5></a>
-                            </div>
+                            </div>*/}
                             <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/rebus" target="_blank"><img src={meter19} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/rebus" target="_blank"><h5>Rebus</h5></a>
+                            <a href="https://github.com/FCPIDZ213/nodes-Guides/tree/main/Rebus" target="_blank"><img src={meter19} alt="Image" /></a>
+                            <a href="https://github.com/FCPIDZ213/nodes-Guides/tree/main/Rebus" target="_blank"><h5>Rebus</h5></a>
                                 </div>
-                                <div className="item">
+                                {/*<div className="item">
                                 <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
                                 <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><h5>Sui Network</h5></a>
-                            </div>
+                            </div>*/}
                         </Carousel>
                     </div>
                 </div>
