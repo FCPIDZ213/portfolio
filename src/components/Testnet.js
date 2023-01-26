@@ -125,8 +125,8 @@ export const Testnet = () => {
                             <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><h5>Juno</h5></a>
                             </div>*/}
                             <div className="item">
-                            <a href="https://github.com/FCPIDZ213/nodes-Guides/tree/main/Rebus" target="_blank"><img src={meter19} alt="Image" /></a>
-                            <a href="https://github.com/FCPIDZ213/nodes-Guides/tree/main/Rebus" target="_blank"><h5>Rebus</h5></a>
+                            <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><img src={meter19} alt="Image" /></a>
+                            <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><h5>Rebus</h5></a>
                                 </div>
                                 {/*<div className="item">
                                 <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
