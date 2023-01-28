@@ -1,5 +1,5 @@
 import React from 'react';
-import meter1 from "../assets/img/tidefi.png";
+import meter1 from "../assets/img/mun.png";
 import meter2 from "../assets/img/sei.png";
 import meter3 from "../assets/img/stride.png";
 import meter4 from "../assets/img/teritori.png";
@@ -120,11 +120,11 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/peaq" target="_blank"><img src={meter17} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/peaq" target="_blank"><h5>Peaq</h5></a>
-                            </div>
-                            <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><img src={meter18} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/juno" target="_blank"><h5>Juno</h5></a>
                             </div>*/}
+                            <div className="item">
+                            <a href="https://explorer.dz-staking.com/mun/staking/munvaloper1yrwd4pvdkwg7rkqgspwnvfsxkjtl3zzj609t0c" target="_blank"><img src={meter1} alt="Image" /></a>
+                            <a href="https://explorer.dz-staking.com/mun/staking/munvaloper1yrwd4pvdkwg7rkqgspwnvfsxkjtl3zzj609t0c" target="_blank"><h5>Mun</h5></a>
+                            </div>
                             <div className="item">
                             <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><img src={meter21} alt="Image" /></a>
                             <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><h5>Planq</h5></a>
