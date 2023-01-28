@@ -2,7 +2,7 @@ import React from 'react';
 import meter1 from "../assets/img/mun.png";
 import meter2 from "../assets/img/source.png";
 import meter3 from "../assets/img/nolus.png";
-import meter4 from "../assets/img/teritori.png";
+import meter4 from "../assets/img/nibiru.png";
 import meter5 from "../assets/img/uptick.png";
 import meter6 from "../assets/img/subquery.png";
 import meter8 from "../assets/img/bundlr.svg";
@@ -104,11 +104,11 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/celestia" target="_blank"><img src={meter12} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/celestia" target="_blank"> <h5>Celestia</h5></a>
-                            </div>
-                            <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"><img src={meter13} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"> <h5>Masa</h5></a>
                             </div>*/}
+                            <div className="item">
+                            <a href="https://explorer.dz-staking.com/nibiru/staking/nibivaloper19fkj00q7387l9mp2pum3l359wwpfnkn8tuuzex" target="_blank"><img src={meter4} alt="Image" /></a>
+                            <a href="https://explorer.dz-staking.com/nibiru/staking/nibivaloper19fkj00q7387l9mp2pum3l359wwpfnkn8tuuzex" target="_blank"> <h5>Nibiru</h5></a>
+                            </div>
                             <div className="item">
                             <a href="https://explorer.stavr.tech/source/staking/sourcevaloper1vx7jx6g0vr6edeuqd94su9u6tx99xqvtg2caqa" target="_blank"> <img src={meter2} alt="Image" /></a>
                             <a href="https://explorer.stavr.tech/source/staking/sourcevaloper1vx7jx6g0vr6edeuqd94su9u6tx99xqvtg2caqa" target="_blank"> <h5>Source</h5></a>
