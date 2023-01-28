@@ -1,6 +1,5 @@
 import React from 'react';
 import meter1 from "../assets/img/mun.png";
-import meter2 from "../assets/img/s.png";
 import meter3 from "../assets/img/nolus.png";
 import meter4 from "../assets/img/teritori.png";
 import meter5 from "../assets/img/uptick.png";
