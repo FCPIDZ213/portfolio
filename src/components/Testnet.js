@@ -1,5 +1,6 @@
 import React from 'react';
 import meter1 from "../assets/img/mun.png";
+import meter2 from "../assets/img/source.png";
 import meter3 from "../assets/img/nolus.png";
 import meter4 from "../assets/img/teritori.png";
 import meter5 from "../assets/img/uptick.png";
@@ -107,18 +108,14 @@ export const Testnet = () => {
                             <div className="item">
                             <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"><img src={meter13} alt="Image" /></a>
                             <a href="https://github.com/nodesxploit/testnet/tree/main/masa" target="_blank"> <h5>Masa</h5></a>
-                            </div>
-                            <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/paloma" target="_blank"> <img src={meter14} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/paloma" target="_blank"> <h5>Paloma</h5></a>
-                            </div>
-                            <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/forta" target="_blank"> <img src={meter15} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/forta" target="_blank"> <h5>Forta</h5></a>
                             </div>*/}
                             <div className="item">
+                            <a href="https://explorer.stavr.tech/source/staking/sourcevaloper1vx7jx6g0vr6edeuqd94su9u6tx99xqvtg2caqa" target="_blank"> <img src={meter2} alt="Image" /></a>
+                            <a href="https://explorer.stavr.tech/source/staking/sourcevaloper1vx7jx6g0vr6edeuqd94su9u6tx99xqvtg2caqa" target="_blank"> <h5>Source</h5></a>
+                            </div>
+                            <div className="item">
                             <a href="https://explorer.dz-staking.com/nolus/staking/nolusvaloper19fkj00q7387l9mp2pum3l359wwpfnkn86zn69s" target="_blank"><img src={meter3} alt="Image" /></a>
-                            <a href="https://explorer.dz-staking.com/nolus/staking/nolusvaloper19fkj00q7387l9mp2pum3l359wwpfnkn86zn69s" target="_blank"><h5>nolus</h5></a>
+                            <a href="https://explorer.dz-staking.com/nolus/staking/nolusvaloper19fkj00q7387l9mp2pum3l359wwpfnkn86zn69s" target="_blank"><h5>Nolus</h5></a>
                             </div>
                             <div className="item">
                             <a href="https://explorer.dz-staking.com/mun/staking/munvaloper1yrwd4pvdkwg7rkqgspwnvfsxkjtl3zzj609t0c" target="_blank"><img src={meter1} alt="Image" /></a>
