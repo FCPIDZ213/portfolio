@@ -126,8 +126,8 @@ export const Testnet = () => {
                             <a href="https://explorer.dz-staking.com/mun/staking/munvaloper1yrwd4pvdkwg7rkqgspwnvfsxkjtl3zzj609t0c" target="_blank"><h5>Mun</h5></a>
                             </div>
                             <div className="item">
-                            <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><img src={meter21} alt="Image" /></a>
-                            <a href="https://github.com/FCPIDZ213/TESTNET-GUIDES/tree/main/Planq" target="_blank"><h5>Planq</h5></a>
+                            <a href="https://explorer.dz-staking.com/planq/staking/plqvaloper1rakhw504djts8xw64g38qzayzwhec4seuajy2g" target="_blank"><img src={meter21} alt="Image" /></a>
+                            <a href="https://explorer.dz-staking.com/planq/staking/plqvaloper1rakhw504djts8xw64g38qzayzwhec4seuajy2g" target="_blank"><h5>Planq</h5></a>
                                 </div>
                                 {/*<div className="item">
                                 <a href="https://github.com/nodesxploit/testnet/tree/main/sui" target="_blank"><img src={meter16} alt="Image" /></a>
