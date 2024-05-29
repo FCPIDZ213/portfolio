@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React [![Netlify Status](https://api.netlify.com/api/v1/badges/3aeecddc-a2d1-4f0e-9211-f84d36044c35/deploy-status)](https://app.netlify.com/sites/vocal-kitsune-7fe775/deploys)
 
-<img width="1266" alt="nodex" src="https://github.com/nodesxploit/portfolio/blob/main/public/redmi.png?raw=true">
+<img width="1266" alt="nodex" src="https://i.postimg.cc/R0W5fNPP/dz.png)](https://postimg.cc/4KRSRNRt">
 
 Built using:
 
